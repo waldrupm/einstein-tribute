@@ -1,0 +1,24 @@
+#name-text {
+    color: #0671AF;
+    margin-bottom: 20px;
+}
+
+#formula-text {
+    color: #3a904b;
+}
+
+#person-image {
+    display: block;
+    width: 55%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.person-image-caption {
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+.text-purple {
+    color: #af87d6;
+}
